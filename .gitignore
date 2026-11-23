@@ -1,0 +1,19 @@
+# Training output
+out/
+export/
+
+# Derived token cache, rebuilt by build_corpus. The .jsonl sources stay tracked.
+data/**/corpus/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+*.egg-info/
+build/
+dist/
+
+# OS
+.DS_Store

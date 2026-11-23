@@ -1,0 +1,621 @@
+{"text": "The Hearth One is a countertop cooking appliance. It draws 1200 W from a grounded outlet and holds 4.2 L. The unit weighs 5.8 kg and ships with a stainless steel inner bowl. Its cooking modes are soup, steam, brown, keep warm. The warranty covers two years from the date of purchase."}
+{"text": "The Hearth Mini is a countertop cooking appliance. It draws 700 W from a grounded outlet and holds 2.0 L. The unit weighs 3.1 kg and ships with a ceramic coated inner bowl. Its cooking modes are soup, steam, keep warm. The warranty covers one year from the date of purchase."}
+{"text": "The Hearth Pro is a countertop cooking appliance. It draws 1800 W from a grounded outlet and holds 6.5 L. The unit weighs 7.4 kg and ships with a cast aluminium inner bowl. Its cooking modes are soup, steam, brown, pressure, keep warm. The warranty covers three years from the date of purchase."}
+{"text": "Question: How do I clean the inner bowl? Answer: Let the bowl cool completely, then wash it with warm water and a soft sponge. Do not use steel wool."}
+{"text": "Question: What does the keep warm mode do? Answer: It holds the contents between 60 and 75 degrees Celsius for up to twelve hours."}
+{"text": "Question: Why does the lid rattle while cooking? Answer: The steam valve is releasing pressure. If the rattle is continuous, check that the valve is seated correctly."}
+{"text": "Question: Can I put the bowl in a dishwasher? Answer: The stainless steel bowl is dishwasher safe. The ceramic coated and cast aluminium bowls must be washed by hand."}
+{"text": "Question: How long does the steam mode run by default? Answer: The default steam cycle is eighteen minutes. You can add time in one minute steps."}
+{"text": "Question: What should I do if the unit shows error E3? Answer: E3 means the lid is not closed. Press the lid down until both latches click, then restart the cycle."}
+{"text": "Question: How much water should I add for soup? Answer: Fill to at least the one litre mark and no higher than two thirds of the bowl."}
+{"text": "Question: Does the appliance need a special outlet? Answer: It draws less than fifteen amps, so a standard grounded outlet is sufficient."}
+{"text": "Question: What is the delay start range? Answer: Delay start can be set from thirty minutes to twenty four hours."}
+{"text": "Question: How often should I replace the seal ring? Answer: Replace the seal ring every eighteen months, or sooner if it no longer seals."}
+{"text": "Brown the aromatics on the brown setting before adding liquid. It takes four extra minutes and improves the body of the soup considerably."}
+{"text": "Add salt in two stages: a third at the start, the rest after the cycle finishes."}
+{"text": "For a thicker soup, remove one cup of solids after cooking, blend it, and return it to the pot."}
+{"text": "Keep warm holds food safely for twelve hours, but flavour degrades noticeably after six."}
+{"text": "Cut root vegetables into pieces of similar size so they finish at the same time."}
+{"text": "Deglaze with a splash of wine or stock after browning to lift the browned bits from the base."}
+{"text": "Do not open the lid during the pressure phase. The interlock will hold it shut until pressure drops."}
+{"text": "Let the unit rest for ten minutes after a pressure cycle before releasing the remaining steam."}
+{"text": "Add 1 cups of stock, then reduce by roughly 39 percent."}
+{"text": "Add 4 cups of stock, then reduce by roughly 11 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 11 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 13 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 25 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 12 percent."}
+{"text": "A 4 litre batch feeds nine people."}
+{"text": "A 7 litre batch feeds 3 people."}
+{"text": "A 2 litre batch feeds 3 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 15 percent."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "A 3 litre batch feeds 5 people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 24 percent."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "A 2 litre batch feeds 2 people."}
+{"text": "Simmer the soup for nine minutes, then switch to keep warm."}
+{"text": "A 5 litre batch feeds 9 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 14 percent."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 16 percent."}
+{"text": "Steam vegetables for 9 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "A 5 litre batch feeds twelve people."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Add 2 cups of stock, then reduce by roughly 34 percent."}
+{"text": "Steam vegetables for 17 minutes with the lid latched."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "Simmer the soup for 19 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "A 6 litre batch feeds 9 people."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "A 4 litre batch feeds 3 people."}
+{"text": "Steam vegetables for 8 minutes with the lid latched."}
+{"text": "A 3 litre batch feeds 7 people."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for three minutes before adding stock."}
+{"text": "Simmer the soup for 40 minutes, then switch to keep warm."}
+{"text": "A 8 litre batch feeds six people."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for four minutes before adding stock."}
+{"text": "Simmer the soup for 26 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 13 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "Simmer the soup for 19 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Simmer the soup for 23 minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 31 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 11 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 36 percent."}
+{"text": "Simmer the soup for 22 minutes, then switch to keep warm."}
+{"text": "Add 1 cups of stock, then reduce by roughly 31 percent."}
+{"text": "Steam vegetables for eighteen minutes with the lid latched."}
+{"text": "Add 2 cups of stock, then reduce by roughly 12 percent."}
+{"text": "A 7 litre batch feeds 6 people."}
+{"text": "Simmer the soup for 14 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "Add 2 cups of stock, then reduce by roughly 29 percent."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "A 4 litre batch feeds 4 people."}
+{"text": "Steam vegetables for ten minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Steam vegetables for 18 minutes with the lid latched."}
+{"text": "Simmer the soup for 21 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Add 2 cups of stock, then reduce by roughly 20 percent."}
+{"text": "Steam vegetables for 9 minutes with the lid latched."}
+{"text": "Add 3 cups of stock, then reduce by roughly 14 percent."}
+{"text": "A 3 litre batch feeds 8 people."}
+{"text": "Steam vegetables for 13 minutes with the lid latched."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "A 2 litre batch feeds four people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 26 percent."}
+{"text": "A 8 litre batch feeds 11 people."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "A 5 litre batch feeds 12 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 33 percent."}
+{"text": "Add 3 cups of stock, then reduce by roughly 13 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 40 percent."}
+{"text": "Steam vegetables for 8 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "A 7 litre batch feeds nine people."}
+{"text": "Simmer the soup for 29 minutes, then switch to keep warm."}
+{"text": "A 8 litre batch feeds 6 people."}
+{"text": "Steam vegetables for twelve minutes with the lid latched."}
+{"text": "A 4 litre batch feeds 5 people."}
+{"text": "Brown the onions on the brown setting for seven minutes before adding stock."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "A 8 litre batch feeds 6 people."}
+{"text": "Simmer the soup for 37 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "Add 2 cups of stock, then reduce by roughly 33 percent."}
+{"text": "A 4 litre batch feeds 6 people."}
+{"text": "Simmer the soup for 20 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 33 minutes, then switch to keep warm."}
+{"text": "Add 1 cups of stock, then reduce by roughly 16 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 13 percent."}
+{"text": "Simmer the soup for thirty minutes, then switch to keep warm."}
+{"text": "Steam vegetables for ten minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Steam vegetables for 6 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 33 percent."}
+{"text": "Brown the onions on the brown setting for five minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "A 8 litre batch feeds nine people."}
+{"text": "A 7 litre batch feeds five people."}
+{"text": "Add 4 cups of stock, then reduce by roughly 19 percent."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "A 6 litre batch feeds 10 people."}
+{"text": "Simmer the soup for 40 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "A 3 litre batch feeds 7 people."}
+{"text": "A 4 litre batch feeds 11 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 13 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 18 percent."}
+{"text": "A 4 litre batch feeds 8 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 19 percent."}
+{"text": "Add 4 cups of stock, then reduce by roughly 23 percent."}
+{"text": "Simmer the soup for 31 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for five minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 11 percent."}
+{"text": "Simmer the soup for 30 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "A 6 litre batch feeds 12 people."}
+{"text": "Steam vegetables for 6 minutes with the lid latched."}
+{"text": "A 3 litre batch feeds 5 people."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Steam vegetables for 9 minutes with the lid latched."}
+{"text": "Add 4 cups of stock, then reduce by roughly 25 percent."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 12 percent."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Simmer the soup for 21 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 16 minutes, then switch to keep warm."}
+{"text": "A 8 litre batch feeds 7 people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 27 percent."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for seven minutes before adding stock."}
+{"text": "Simmer the soup for 15 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Add 1 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Steam vegetables for 17 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "A 8 litre batch feeds 11 people."}
+{"text": "Steam vegetables for 16 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Simmer the soup for 32 minutes, then switch to keep warm."}
+{"text": "Add 4 cups of stock, then reduce by roughly 32 percent."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "A 3 litre batch feeds 9 people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 33 percent."}
+{"text": "A 5 litre batch feeds two people."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "A 5 litre batch feeds twelve people."}
+{"text": "A 5 litre batch feeds 8 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 30 percent."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "Add 1 cups of stock, then reduce by roughly 31 percent."}
+{"text": "Simmer the soup for 27 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "A 5 litre batch feeds 4 people."}
+{"text": "Simmer the soup for 37 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 19 minutes, then switch to keep warm."}
+{"text": "A 3 litre batch feeds two people."}
+{"text": "Add 4 cups of stock, then reduce by roughly 18 percent."}
+{"text": "Add 3 cups of stock, then reduce by roughly 37 percent."}
+{"text": "Add 3 cups of stock, then reduce by roughly 14 percent."}
+{"text": "A 5 litre batch feeds 10 people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 35 percent."}
+{"text": "Simmer the soup for 32 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 37 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 31 minutes, then switch to keep warm."}
+{"text": "Add 1 cups of stock, then reduce by roughly 25 percent."}
+{"text": "Steam vegetables for 6 minutes with the lid latched."}
+{"text": "Simmer the soup for 14 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "A 7 litre batch feeds 4 people."}
+{"text": "A 2 litre batch feeds 2 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 40 percent."}
+{"text": "Steam vegetables for 16 minutes with the lid latched."}
+{"text": "A 5 litre batch feeds 6 people."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Steam vegetables for 12 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for eight minutes before adding stock."}
+{"text": "Add 4 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 19 percent."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "Add 3 cups of stock, then reduce by roughly 38 percent."}
+{"text": "Add 3 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Simmer the soup for 30 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 31 minutes, then switch to keep warm."}
+{"text": "A 5 litre batch feeds 11 people."}
+{"text": "Simmer the soup for 35 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 29 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 9 minutes with the lid latched."}
+{"text": "Add 1 cups of stock, then reduce by roughly 38 percent."}
+{"text": "Brown the onions on the brown setting for three minutes before adding stock."}
+{"text": "Simmer the soup for 28 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 24 percent."}
+{"text": "Steam vegetables for 11 minutes with the lid latched."}
+{"text": "Simmer the soup for 21 minutes, then switch to keep warm."}
+{"text": "A 8 litre batch feeds six people."}
+{"text": "A 7 litre batch feeds 10 people."}
+{"text": "A 8 litre batch feeds nine people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Simmer the soup for 13 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "Simmer the soup for 14 minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 31 percent."}
+{"text": "Simmer the soup for 37 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "Simmer the soup for 11 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for nine minutes with the lid latched."}
+{"text": "Add 3 cups of stock, then reduce by roughly 30 percent."}
+{"text": "Brown the onions on the brown setting for five minutes before adding stock."}
+{"text": "Simmer the soup for 15 minutes, then switch to keep warm."}
+{"text": "Add 1 cups of stock, then reduce by roughly 33 percent."}
+{"text": "A 7 litre batch feeds 11 people."}
+{"text": "Add 2 cups of stock, then reduce by roughly 16 percent."}
+{"text": "A 4 litre batch feeds 4 people."}
+{"text": "Simmer the soup for 26 minutes, then switch to keep warm."}
+{"text": "A 7 litre batch feeds 3 people."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "Steam vegetables for seven minutes with the lid latched."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "A 4 litre batch feeds 7 people."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 36 percent."}
+{"text": "Add 4 cups of stock, then reduce by roughly 19 percent."}
+{"text": "Steam vegetables for 17 minutes with the lid latched."}
+{"text": "Steam vegetables for nine minutes with the lid latched."}
+{"text": "Add 3 cups of stock, then reduce by roughly 32 percent."}
+{"text": "A 4 litre batch feeds 3 people."}
+{"text": "Add 3 cups of stock, then reduce by roughly 36 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Simmer the soup for 10 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 15 percent."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "Add 1 cups of stock, then reduce by roughly 15 percent."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 22 percent."}
+{"text": "Simmer the soup for 31 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "A 2 litre batch feeds 7 people."}
+{"text": "Steam vegetables for 11 minutes with the lid latched."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "Add 2 cups of stock, then reduce by roughly 22 percent."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for seven minutes before adding stock."}
+{"text": "Simmer the soup for 28 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for three minutes before adding stock."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Simmer the soup for 23 minutes, then switch to keep warm."}
+{"text": "A 5 litre batch feeds 5 people."}
+{"text": "Simmer the soup for 19 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 15 minutes, then switch to keep warm."}
+{"text": "Add 4 cups of stock, then reduce by roughly 33 percent."}
+{"text": "Simmer the soup for 22 minutes, then switch to keep warm."}
+{"text": "Add 3 cups of stock, then reduce by roughly 15 percent."}
+{"text": "Brown the onions on the brown setting for eight minutes before adding stock."}
+{"text": "Steam vegetables for 9 minutes with the lid latched."}
+{"text": "Simmer the soup for 16 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "Simmer the soup for 15 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 33 percent."}
+{"text": "Simmer the soup for twenty four minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "A 4 litre batch feeds seven people."}
+{"text": "A 8 litre batch feeds 7 people."}
+{"text": "Simmer the soup for twenty four minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "A 2 litre batch feeds 2 people."}
+{"text": "Steam vegetables for ten minutes with the lid latched."}
+{"text": "Add 1 cups of stock, then reduce by roughly 24 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 22 percent."}
+{"text": "Add 3 cups of stock, then reduce by roughly 28 percent."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 27 percent."}
+{"text": "Simmer the soup for 34 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 16 minutes with the lid latched."}
+{"text": "Add 1 cups of stock, then reduce by roughly 33 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 30 percent."}
+{"text": "A 5 litre batch feeds ten people."}
+{"text": "A 4 litre batch feeds two people."}
+{"text": "Simmer the soup for 15 minutes, then switch to keep warm."}
+{"text": "Add 3 cups of stock, then reduce by roughly 26 percent."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Simmer the soup for 24 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Add 2 cups of stock, then reduce by roughly 25 percent."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "A 8 litre batch feeds 11 people."}
+{"text": "Steam vegetables for six minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 21 percent."}
+{"text": "A 6 litre batch feeds 3 people."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "A 2 litre batch feeds 7 people."}
+{"text": "Steam vegetables for 6 minutes with the lid latched."}
+{"text": "Add 3 cups of stock, then reduce by roughly 18 percent."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "Simmer the soup for 12 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Simmer the soup for eight minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 39 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 13 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 9 minutes, then switch to keep warm."}
+{"text": "Add 4 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "A 6 litre batch feeds 9 people."}
+{"text": "Simmer the soup for 8 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for three minutes before adding stock."}
+{"text": "Steam vegetables for 11 minutes with the lid latched."}
+{"text": "Simmer the soup for 21 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "A 3 litre batch feeds 5 people."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "Add 4 cups of stock, then reduce by roughly 16 percent."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Add 3 cups of stock, then reduce by roughly 14 percent."}
+{"text": "A 5 litre batch feeds 3 people."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "Simmer the soup for eight minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 30 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for ten minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 17 percent."}
+{"text": "Simmer the soup for 40 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "A 2 litre batch feeds 9 people."}
+{"text": "A 8 litre batch feeds 8 people."}
+{"text": "A 6 litre batch feeds six people."}
+{"text": "Brown the onions on the brown setting for seven minutes before adding stock."}
+{"text": "Steam vegetables for 16 minutes with the lid latched."}
+{"text": "Simmer the soup for 31 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 16 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Steam vegetables for 11 minutes with the lid latched."}
+{"text": "A 4 litre batch feeds 2 people."}
+{"text": "A 6 litre batch feeds 12 people."}
+{"text": "Add 4 cups of stock, then reduce by roughly 23 percent."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Simmer the soup for 29 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 14 minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 22 percent."}
+{"text": "Simmer the soup for 10 minutes, then switch to keep warm."}
+{"text": "A 8 litre batch feeds 5 people."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "Add 4 cups of stock, then reduce by roughly 32 percent."}
+{"text": "A 4 litre batch feeds 5 people."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for eight minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 6 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "Steam vegetables for 16 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for eight minutes before adding stock."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "A 2 litre batch feeds 2 people."}
+{"text": "Simmer the soup for 30 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 37 minutes, then switch to keep warm."}
+{"text": "A 7 litre batch feeds 4 people."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "Add 2 cups of stock, then reduce by roughly 15 percent."}
+{"text": "Simmer the soup for 10 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 19 percent."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Steam vegetables for 11 minutes with the lid latched."}
+{"text": "A 5 litre batch feeds eight people."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "A 7 litre batch feeds three people."}
+{"text": "Steam vegetables for 8 minutes with the lid latched."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "A 6 litre batch feeds 10 people."}
+{"text": "Steam vegetables for 13 minutes with the lid latched."}
+{"text": "Add 3 cups of stock, then reduce by roughly 31 percent."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "A 6 litre batch feeds five people."}
+{"text": "Simmer the soup for 13 minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 22 percent."}
+{"text": "A 3 litre batch feeds 9 people."}
+{"text": "Steam vegetables for 8 minutes with the lid latched."}
+{"text": "Add 4 cups of stock, then reduce by roughly 40 percent."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "A 3 litre batch feeds 11 people."}
+{"text": "Brown the onions on the brown setting for four minutes before adding stock."}
+{"text": "Simmer the soup for 25 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 32 minutes, then switch to keep warm."}
+{"text": "A 2 litre batch feeds 4 people."}
+{"text": "Add 4 cups of stock, then reduce by roughly 16 percent."}
+{"text": "Steam vegetables for 11 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for three minutes before adding stock."}
+{"text": "A 7 litre batch feeds 10 people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 11 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 38 percent."}
+{"text": "A 8 litre batch feeds 8 people."}
+{"text": "Steam vegetables for 12 minutes with the lid latched."}
+{"text": "A 8 litre batch feeds 4 people."}
+{"text": "Steam vegetables for 6 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "A 4 litre batch feeds 2 people."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "Simmer the soup for 22 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for twelve minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "Add 2 cups of stock, then reduce by roughly 19 percent."}
+{"text": "Simmer the soup for nine minutes, then switch to keep warm."}
+{"text": "A 6 litre batch feeds eight people."}
+{"text": "A 2 litre batch feeds 12 people."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "A 6 litre batch feeds 6 people."}
+{"text": "A 8 litre batch feeds 12 people."}
+{"text": "Simmer the soup for 18 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 37 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "Simmer the soup for 18 minutes, then switch to keep warm."}
+{"text": "A 3 litre batch feeds 11 people."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Add 4 cups of stock, then reduce by roughly 24 percent."}
+{"text": "Steam vegetables for 8 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for seven minutes before adding stock."}
+{"text": "Simmer the soup for 8 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 20 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for five minutes before adding stock."}
+{"text": "Simmer the soup for 18 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 6 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for four minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Add 4 cups of stock, then reduce by roughly 23 percent."}
+{"text": "Simmer the soup for 21 minutes, then switch to keep warm."}
+{"text": "A 8 litre batch feeds two people."}
+{"text": "Add 4 cups of stock, then reduce by roughly 34 percent."}
+{"text": "A 2 litre batch feeds 8 people."}
+{"text": "Simmer the soup for 29 minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 16 percent."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "Steam vegetables for 7 minutes with the lid latched."}
+{"text": "A 5 litre batch feeds 5 people."}
+{"text": "A 2 litre batch feeds 8 people."}
+{"text": "Simmer the soup for twelve minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "A 2 litre batch feeds 8 people."}
+{"text": "A 8 litre batch feeds five people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 28 percent."}
+{"text": "Add 3 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "A 5 litre batch feeds 6 people."}
+{"text": "Steam vegetables for 13 minutes with the lid latched."}
+{"text": "A 3 litre batch feeds 5 people."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "A 5 litre batch feeds ten people."}
+{"text": "Steam vegetables for 13 minutes with the lid latched."}
+{"text": "A 7 litre batch feeds seven people."}
+{"text": "Simmer the soup for 19 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 22 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "A 4 litre batch feeds 7 people."}
+{"text": "Brown the onions on the brown setting for four minutes before adding stock."}
+{"text": "A 3 litre batch feeds 6 people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 14 percent."}
+{"text": "Steam vegetables for 9 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for four minutes before adding stock."}
+{"text": "A 2 litre batch feeds 8 people."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Simmer the soup for 39 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 24 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Simmer the soup for 29 minutes, then switch to keep warm."}
+{"text": "Steam vegetables for 17 minutes with the lid latched."}
+{"text": "Steam vegetables for seven minutes with the lid latched."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "A 7 litre batch feeds 2 people."}
+{"text": "A 6 litre batch feeds 5 people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 29 percent."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for four minutes before adding stock."}
+{"text": "A 4 litre batch feeds seven people."}
+{"text": "A 4 litre batch feeds four people."}
+{"text": "Brown the onions on the brown setting for 7 minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 12 percent."}
+{"text": "Steam vegetables for 9 minutes with the lid latched."}
+{"text": "A 6 litre batch feeds five people."}
+{"text": "Add 1 cups of stock, then reduce by roughly 17 percent."}
+{"text": "A 7 litre batch feeds 9 people."}
+{"text": "A 8 litre batch feeds 7 people."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "Steam vegetables for 17 minutes with the lid latched."}
+{"text": "Add 3 cups of stock, then reduce by roughly 35 percent."}
+{"text": "A 5 litre batch feeds 8 people."}
+{"text": "Steam vegetables for eight minutes with the lid latched."}
+{"text": "Simmer the soup for ten minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 36 percent."}
+{"text": "Brown the onions on the brown setting for four minutes before adding stock."}
+{"text": "Steam vegetables for 8 minutes with the lid latched."}
+{"text": "Add 4 cups of stock, then reduce by roughly 13 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 37 percent."}
+{"text": "Simmer the soup for 28 minutes, then switch to keep warm."}
+{"text": "A 8 litre batch feeds 6 people."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "Simmer the soup for 26 minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 17 percent."}
+{"text": "Add 2 cups of stock, then reduce by roughly 37 percent."}
+{"text": "Brown the onions on the brown setting for 9 minutes before adding stock."}
+{"text": "A 2 litre batch feeds 3 people."}
+{"text": "Add 4 cups of stock, then reduce by roughly 19 percent."}
+{"text": "Add 1 cups of stock, then reduce by roughly 29 percent."}
+{"text": "Simmer the soup for 12 minutes, then switch to keep warm."}
+{"text": "Add 3 cups of stock, then reduce by roughly 36 percent."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 4 minutes before adding stock."}
+{"text": "Add 1 cups of stock, then reduce by roughly 37 percent."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "A 3 litre batch feeds 12 people."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "Simmer the soup for 23 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 37 minutes, then switch to keep warm."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Add 4 cups of stock, then reduce by roughly 21 percent."}
+{"text": "Add 3 cups of stock, then reduce by roughly 13 percent."}
+{"text": "A 8 litre batch feeds 9 people."}
+{"text": "Steam vegetables for eight minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Steam vegetables for 18 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for seven minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}
+{"text": "Steam vegetables for 18 minutes with the lid latched."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "A 6 litre batch feeds 11 people."}
+{"text": "Steam vegetables for 20 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for six minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for nine minutes before adding stock."}
+{"text": "Steam vegetables for 11 minutes with the lid latched."}
+{"text": "Steam vegetables for 19 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 5 minutes before adding stock."}
+{"text": "Steam vegetables for 14 minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for 3 minutes before adding stock."}
+{"text": "A 2 litre batch feeds 10 people."}
+{"text": "Add 4 cups of stock, then reduce by roughly 40 percent."}
+{"text": "A 3 litre batch feeds 12 people."}
+{"text": "Add 2 cups of stock, then reduce by roughly 28 percent."}
+{"text": "Simmer the soup for 39 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 34 minutes, then switch to keep warm."}
+{"text": "Simmer the soup for 35 minutes, then switch to keep warm."}
+{"text": "Add 2 cups of stock, then reduce by roughly 39 percent."}
+{"text": "Steam vegetables for 13 minutes with the lid latched."}
+{"text": "Steam vegetables for 15 minutes with the lid latched."}
+{"text": "Steam vegetables for seven minutes with the lid latched."}
+{"text": "Brown the onions on the brown setting for eight minutes before adding stock."}
+{"text": "Brown the onions on the brown setting for eight minutes before adding stock."}
+{"text": "Add 4 cups of stock, then reduce by roughly 27 percent."}
+{"text": "Steam vegetables for 17 minutes with the lid latched."}
+{"text": "A 3 litre batch feeds six people."}
+{"text": "Steam vegetables for 10 minutes with the lid latched."}
+{"text": "Add 2 cups of stock, then reduce by roughly 25 percent."}
+{"text": "A 6 litre batch feeds 4 people."}
+{"text": "Brown the onions on the brown setting for 8 minutes before adding stock."}

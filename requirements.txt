@@ -1,0 +1,9 @@
+# Core training needs only these three.
+torch>=2.1
+numpy>=1.24
+tokenizers>=0.15
+
+# Optional. Each is used by one script, and each script works without it.
+# pytest        - tests
+# safetensors   - export in safetensors format (falls back to torch.save)
+# transformers  - only for scripts/to_huggingface.py verification

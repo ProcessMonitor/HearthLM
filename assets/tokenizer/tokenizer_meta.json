@@ -1,0 +1,17 @@
+{
+  "special_ids": {
+    "<|endoftext|>": 0,
+    "<|im_end|>": 1,
+    "<|pad|>": 2,
+    "<|unk|>": 3,
+    "<|im_start|>": 4,
+    "<|system|>": 5,
+    "<|user|>": 6,
+    "<|assistant|>": 7,
+    "<|tool|>": 8,
+    "<|tool_call|>": 9,
+    "<|tool_response|>": 10,
+    "<think>": 11,
+    "</think>": 12
+  }
+}
