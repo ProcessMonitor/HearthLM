@@ -49,9 +49,10 @@ segment to a token range through the tokenizer's own offset table.
 
 ## Results
 
-Measured on one machine, an Apple-silicon laptop with 24 GB of unified memory. The demo model is the `mini` preset
-at 24.1M parameters, pretrained on 139k tokens for 1296 steps, then SFT'd on 2.8k
-conversations with a 5% held-out split.
+Measured on one machine, an Apple-silicon laptop with 24 GB of unified memory.
+The demo model is the `mini` preset at 24.1M parameters: pretrained on 139k
+tokens for 1296 steps, then SFT'd for 40 steps on 2.7k conversations with a 5%
+held-out split.
 
 ```
 pretrain loss, final step            6.9  -> 0.28
@@ -64,7 +65,9 @@ arithmetic (25 probes)              0/25
 unit conversion (7 probes)          7/7
 ```
 
-Read that table the way it is meant.
+The three groups below differ in kind, not degree: one is what the pipeline
+demonstrably teaches, one is a capacity limit at this size, and one is out of
+reach entirely.
 
 **What works.** The model copies procedural answers verbatim, 10 out of 10, and
 gets every unit conversion asked of it. Format, turn structure, EOS placement
@@ -78,11 +81,12 @@ answers), so this is a capacity limit, not a data bug: 24M parameters struggle t
 keep three similar entities apart. More parameters or a longer schedule fixes it;
 this project reports the number instead of picking the good seed.
 
-**What does not work.** Arithmetic, 0 out of 25. Single-digit addition requires
-learning an algorithm from examples, the tokenizer emits digits one at a time,
-and 168 optimizer steps is nowhere near enough. It needs a longer schedule, a
-tokenizer that keeps numbers whole, or a bigger model. All three are real
-options; none is a code fix.
+**What does not work.** Arithmetic, 0 out of 25. The 569 arithmetic rows in the
+training set are all correct (checked), so this is the model, not the data.
+Single-digit addition has to be learned as an algorithm from examples, the
+tokenizer emits digits one at a time, and 40 optimizer steps is nowhere near
+enough. It needs a longer schedule, a tokenizer that keeps numbers whole, or a
+bigger model. All three are real options; none is a code fix.
 
 ## Install
 
